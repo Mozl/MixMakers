@@ -11,6 +11,10 @@ Card Wall:
 
 * [check card wall here](https://trello.com/b/p7wf6qg3/mobile-app)
 
+## App in action
+
+![mixmakers](https://thumbs.gfycat.com/DapperFlashyAnaconda-size_restricted.gif)
+
 Task:
 -------
 
